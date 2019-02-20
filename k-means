@@ -1,0 +1,2 @@
+Changing value of k for k-means code:
+As the value of k is increased the overall accuracy of the model goes down with addition of an additional cluster.
